@@ -1,0 +1,9 @@
+streamlit==1.64.0
+Pillow==12.3.0
+numpy==2.4.6
+pandas==3.0.6
+opencv-python==5.0.0.93
+easyocr==1.7.2
+ultralytics==8.4.168
+faster-whisper==1.2.1
+lap==0.5.13

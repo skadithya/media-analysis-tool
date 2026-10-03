@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Generated outputs
+outputs/*
+
+# Keep the outputs directory itself
+!outputs/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Environment/secrets
+.env
+.env.*
+
+# Keep sample media if intentionally included
+# sample_media/
